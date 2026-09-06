@@ -1,4 +1,4 @@
-# Highly Available, Fault-Tolerant AWS Web App Architecture
+# PROJECT 1: Highly Available, Fault-Tolerant AWS Web App Architecture
 
 A production-style AWS infrastructure built to demonstrate core cloud engineering fundamentals: high availability, fault tolerance, auto scaling, and observability — with no single point of failure.
 
